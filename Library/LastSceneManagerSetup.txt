@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SKULLS_ALTAR.unity
+  isLoaded: 1
+  isActive: 1

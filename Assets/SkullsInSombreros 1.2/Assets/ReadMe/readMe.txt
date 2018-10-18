@@ -1,0 +1,1 @@
+Thank you for acquiring the Skulls In Sombreros package. If you need this asset to be somehow modified to suit the requirements of your game (IE:more or less polys, materials, a particular animation,etc.) contact support.
